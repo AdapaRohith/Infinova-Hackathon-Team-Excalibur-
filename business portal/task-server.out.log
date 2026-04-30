@@ -1,5 +1,0 @@
-
-> task-economy-on-blockchain@0.0.0 server
-> node server/index.js
-
-Algorand backend listening on http://127.0.0.1:4000
